@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Help Save the Ackerman's Home</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1em 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .content {
+            padding: 2em;
+            background: #fff;
+            margin-top: 1em;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .cta {
+            background: #333;
+            color: #fff;
+            padding: 1em;
+            text-align: center;
+            margin-top: 1em;
+        }
+        .cta a {
+            color: #fff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        footer {
+            text-align: center;
+            padding: 1em;
+            background: #333;
+            color: #fff;
+            margin-top: 1em;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Help Save the Ackerman's Home</h1>
+</header>
+
+<div class="container">
+    <div class="content">
+        <h2>Urgent Appeal for Support</h2>
+        <p>We urgently reach out to you today with heavy hearts and a plea for support. Lee and Angela Ackerman, beloved members of our community, are facing the imminent threat of losing their home of 30 years.</p>
+
+        <h3>Their Story</h3>
+        <p>Lee, a retired military veteran who served our country with honor, suffered a catastrophic ankle injury that has left him unable to continue his work in HVAC. Angela, a devoted wife and mother, had to leave her public service job to care for her mother, Mimi, who is battling advanced Alzheimer’s.</p>
+        <p>Their story is one of selfless service and unwavering dedication to family and community. Over the years, they have opened their hearts and home to many children and young adults, providing a sanctuary of love and support. Now, they need our help to save their home from foreclosure and preserve the stability and security they have worked so hard to build.</p>
+
+        <h3>What We’re Raising Funds For</h3>
+        <p>We are raising funds to help Lee and Angela cover immediate bills and prevent foreclosure on their home. Our initial goal is to raise $50,000 to provide the necessary financial relief to keep their home and buy us more time to work towards a long-term solution. Ultimately, we aim to raise $400,000 to pay off the mortgage entirely, securing their home and ensuring they do not lose the equity they have built over three decades of hard work and dedication.</p>
+
+        <h3>How You Can Help</h3>
+        <p>If every Virginian donated just 75 cents, we could easily meet our goal and save the Ackermans’ home. We know not everyone will contribute, but many of you do care deeply. It’s sad to think that such a small amount from each of us could rescue a family if we came together. So let’s do this together. Let’s raise our voices and show the world that we care.</p>
+        <p>Let’s spread this campaign far and wide, reaching everyone in the country who cares. We guarantee that our caring army is just as strong, if not stronger, than Lee’s airborne army buddies. We are an army of good that supports one another.</p>
+        <p>Your donation, no matter the size, will directly support Lee and Angela in their fight to save their home, ensuring they can continue being the beacon of hope they have always been for our community. No contribution is too small, and every bit helps. Please join us in making a profound difference in their lives during this critical time.</p>
+
+        <div class="cta">
+            <p><a href="https://gofund.me/015ee14e">Donate Now</a></p>
+        </div>
+
+        <h3>With Gratitude,</h3>
+        <p>Christopher</p>
+    </div>
+
+    <div class="content">
+        <h3>Contact Information</h3>
+        <p>For more information, please reach out to:</p>
+        <p><strong>Christopher</strong></p>
+        <p>Email: [Your Email]</p>
+        <p>Phone: [Your Phone Number]</p>
+    </div>
+
+    <div class="content">
+        <h3>Share this Campaign</h3>
+        <p>Help us spread the word by sharing this campaign with your friends and family. Every share brings us one step closer to our goal.</p>
+    </div>
+
+    <div class="content">
+        <h3>Images and Testimonials</h3>
+        <!-- Insert images of Lee, Angela, their home, and community events showcasing their contributions -->
+        <!-- Include testimonials from community members about the impact Lee and Angela have had on their lives -->
+    </div>
+
+    <div class="content">
+        <h3>Join the Justice League Team</h3>
+        <p>Meet our dedicated team members: Celeste, Kobi, Brandon, Tigre, Joey, Holli, Zachary, and Vickie. Together, we are committed to making a difference.</p>
+    </div>
+</div>
+
+<footer>
+    <p>&copy; 2024 Help Save the Ackerman's Home</p>
+</footer>
+
+</body>
+</html>
